@@ -22,6 +22,18 @@ header a {
 	padding: 0 10px;
 	margin: 0;
 }
+header a:link {
+	text-decoration: none;
+}
+
+header a:hover {
+	text-decoration: none;
+}
+
+header a:visited {
+	text-decoration: none;
+}
+
 div .row img {
 	display: flex;
 	justify-content: flex-end;
