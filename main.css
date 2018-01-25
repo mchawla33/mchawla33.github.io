@@ -26,8 +26,9 @@ header a:link {
 	text-decoration: none;
 }
 
-header a h1:hover {
+header h1 a:hover {
 	text-decoration: none;
+	color: #ffffff;
 }
 
 header a:visited {
