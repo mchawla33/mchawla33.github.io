@@ -17,7 +17,6 @@ header nav {
 	justify-content: center;
 }
 
-
 header a {
 	color: #000000;
 	padding: 0 10px;
@@ -64,15 +63,26 @@ div a:link {
 
 div a:hover {
 	text-decoration: none;
-	color: #2ab6fc;
 }
 
 div a:visited {
 	text-decoration: none;
 }
 
-div div a h2:hover {
-	color: #2ab6fc;
+div pre {
+	display: block;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 20px;
+    line-height: 1.55;
+    color: #000000;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #e5e5e5;
+    border: 0px;
+    border-radius: 0px;
+
 }
 
 
