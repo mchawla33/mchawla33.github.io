@@ -75,5 +75,15 @@ div div a h2:hover {
 	color: #2ab6fc;
 }
 
+header nav ul a img{
+	max-width: 48px;
+	max-height: 48px;
+}
+
+header nav ul a img:hover {
+	max-width: 72px;
+	max-height: 72px;
+}
+
 
 
